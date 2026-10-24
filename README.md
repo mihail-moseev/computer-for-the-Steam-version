@@ -15,7 +15,7 @@
       <p><a href="https://github.com/mihail-moseev/computer-for-the-Steam-version/blob/main/programs.md">Готовые программы</a></p>
     </td>
     <td>
-      <img src="./computer.jpg" alt="computer" style="width: 100%; height: auto;">
+      <a href="https://logic-arrows.io/map-J6sKCafg"><img src="./computer.jpg" alt="computer" style="width: 100%; height: auto;"></a>
     </td>
   </tr>
 </table>
