@@ -11,7 +11,7 @@
         <li>Наблюдайте, как программа выведет "Hello world" и загорится лампочка Done</li>
       </ol>
       <p><a href="https://logic-arrows.io/map-J6sKCafg">Карта</a></p>
-      <p><a href="https://github.com/mihail-moseev/computer-for-the-Steam-version/blob/main/devices%20and%20specifications.md">Устройства и характеристики</a></p>
+      <p><a href="https://github.com/mihail-moseev/computer-for-the-Steam-version/blob/main/devices%20and%20specifications/devices%20and%20specifications.md">Устройства и характеристики</a></p>
       <p><a href="https://github.com/mihail-moseev/computer-for-the-Steam-version/blob/main/programs.md">Готовые программы</a></p>
     </td>
     <td>
