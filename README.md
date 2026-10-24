@@ -1,5 +1,5 @@
 <h1>Сomputer for the Steam version</h1>
-<image></image>
-<p>карта: https://logic-arrows.io/map-J6sKCafg</p>
-<p>устройство и характеристики: </p>
-<p>готовые программы: </p>
+<img>
+<p><a href=https://logic-arrows.io/map-J6sKCafg>карта</a></p>
+<p><a href=>устройство и характеристики</a></p>
+<p><a href=>готовые программы</a></p>
