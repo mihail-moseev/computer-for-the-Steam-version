@@ -2,7 +2,7 @@
 
 ## Процессор
 
-<img src="./CPU.jpg" alt="CPU">
+<img src="./images/CPU.jpg" alt="CPU">
 
 8-ми битная архитектура
 
@@ -27,7 +27,7 @@
 
 ## Память
 
-<img src="./RAM.jpg" alt="RAM">
+<img src="./images/RAM.jpg" alt="RAM">
 
 Объём памяти: 256 байт
 
@@ -37,7 +37,7 @@
 
 ## Дисплей
 
-<img src="./display.jpg" alt="display" width="500">
+<img src="./images/display.jpg" alt="display" width="500">
 
 Для вывода байта на правую половину дисплея необходимо сохранить его по адресу `0xff`
 
@@ -51,7 +51,7 @@
 
 ## Ввод
 
-<img src="./input.jpg" alt="input">
+<img src="./images/input.jpg" alt="input">
 
 Имеет задержку, которая позволяет прочитать байт без багов.
 
