@@ -1,2 +1,5 @@
 # computer-for-the-Steam-version
-https://logic-arrows.io/map-J6sKCafg
+карта: https://logic-arrows.io/map-J6sKCafg
+устройства и характеристики: 
+программирование: 
+готовые программы: 
